@@ -38,8 +38,8 @@ Here are some examples of the results obtained by this project:
 | Previous | After |
 | ----- | ------ |
 |![l1](https://github.com/Mochoye/LicensePlateESRGAN/assets/95351969/bfce2a5a-28b1-4da2-b8fe-aeced4ea71c1) | ![l2](https://github.com/Mochoye/LicensePlateESRGAN/assets/95351969/89368c28-674d-482e-b873-1649d7c1f255)
- |
-| ![Input](^4^) | ![Output] |
+
+
 
 ## References
 
